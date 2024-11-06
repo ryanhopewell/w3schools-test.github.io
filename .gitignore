@@ -1,1 +1,6 @@
 /.vscode/
+# ignore all files in temp directory
+temp/
+
+# ignore all .log files
+*.log
